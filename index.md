@@ -1,5 +1,9 @@
 ## About Me
 
+
+![Alt text](chiikawa.webp)
+
+
 **My name is Giana Gesmundo and I enjoy playing video games and taking walks in scenic places.** 
 
 
