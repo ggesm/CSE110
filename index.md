@@ -1,23 +1,12 @@
-## **Part 2 Git**
+## About Me
 
-
-![Alt text](gitsteps.png)
-
-
-## _Part 2 VSCode UI_
-
-
-![Alt text](vscodeui.png)
-![Alt text](branch.png)
-
-
-My name is Giana Gesmundo and I enjoy playing video games and taking walks in scenic places. 
+**My name is Giana Gesmundo and I enjoy playing video games and taking walks in scenic places.** 
 
 
 > The games I enjoy playing the most are Valorant and Minecraft
 
 
-The Git commands I learned today are:
+_Some of the Git commands I learned today are:_
 
 ```
 git commit
