@@ -4,13 +4,13 @@
 ![Alt text](chiikawa.webp)
 
 
-**My name is Giana Gesmundo and I enjoy playing video games and taking walks in scenic places.** 
+**My name is Giana Gesmundo and I enjoy playing video games** 
 
 
 > The games I enjoy playing the most are Valorant and Minecraft
 
 
-_Some of the Git commands I learned today are:_
+_Some of the Git commands I learned are:_
 
 ```
 git commit
@@ -19,15 +19,15 @@ git push
 ```
 
 
-Here is a link to one of favorite twich streamers [QuarterJade](https://www.twitch.tv/quarterjade)
 
 
-[Hachiware](https://images.app.goo.gl/sUooXKc2rbZfA6V99)
+
+I love [Hachiware](https://images.app.goo.gl/sUooXKc2rbZfA6V99)
 
 
 
 My Favorite Foods
-* Bossam
+* Sinigang
 * Spam Musubi
 * Bingsoo
 
